@@ -4,7 +4,7 @@
   "description": "Timestamp microservice for FCC.",
   "main": "app/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app/index.js"
   },
   "author": "Demon000",
   "license": "ISC",
